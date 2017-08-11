@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it?
+My Thoughts: When you initialize a repository, a hidden git configuration file is created. This is means that such directory is now a repository and can be manipulated via git. This is necessary so that the history of that directory can now be tracted using the various git commands.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+My Thoughts: The staging ares is different from the other concepts in that it is not a final area for working files but a temporary space. It helps you preview your changes before you are able to finalize your changes.
+
+
+
+It seems none of the lessons treat discuss how to set up user name and email.
+
+Apparently, this is required at some point.
+
+I therefore suggest that the course instructors look into this and work towards adding a side note in the instructions area.
