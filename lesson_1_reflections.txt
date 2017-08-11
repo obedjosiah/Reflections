@@ -1,0 +1,21 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+My Thoughts: By viewing and comparing the different fles, I was able to narrow down my comparison to the parts where differences occured. This saved me time and energy.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+My Thoughts: It will definitely help me whie collaborating with other programmers. Also, it will help me save  a lot of time while updating or refactoring code, in the event of possible errors made.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+My Thoughts:
+Pros: You have the flexibity of deciding when it is logical to save (in this case, commit) a version of your file. So all your saved changes make sense to you, or any one else who'd look through. Cons: Human error may come into play, and you may forget to commit at the logically right time.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+My Thoughts: VSCs like Git allow for saving mutiple files because in many cases they deal with files that are interrelated. Hence, changes to one file may some times affect other files. On the other hand, other VSCs disallow this because the files they deal with are often completely independent of each other. Hence, it is not possible to find the diff of previous versions of these files without treating them seperately. (I hope this even makes sense. lol). 
+
+How can you use the commands git log and git diff to view the history of files?
+My Thoughts: git log is a command that shows you the history of commits within your repo. This info includes the commit ID, aauthor, date and commit message. More specifically, adding '--stat' to that command shows you the file(s) on which the changes were made with the amount of insertions and deletions made. git diff compares two commit histories using their various commit IDs and outputs the differences made in the various commits.
+
+How might using version control make you more confident to make changes that could break something?
+My Thoughts: The fact that I can easily navigate through previous changes to track where errors might have been made frees me up from the scares of making significant changes to my code.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+My Thoughts: I intend to use git at this initial stage of my programming experience to collaborate with my programming mentors. I'll relay my work to them so they can vert and direct me accordinly. Also, git will help me contribute to Open Source projects, as I hopefully want to begin doing. Not to mention, collaborating with my co-workers and team members when I get a tech job.
