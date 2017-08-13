@@ -4,6 +4,14 @@ My Thoughts: When you initialize a repository, a hidden git configuration file i
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 My Thoughts: The staging ares is different from the other concepts in that it is not a final area for working files but a temporary space. It helps you preview your changes before you are able to finalize your changes.
 
+How can you use the staging area to make sure you have one commit per logical change?
+My Thoughts: Staging area allows you to compile all the files required to make a particular commit. So you are sure that all filesare related to the same kind of change.  (that is, one logical change per commit).
+
+
+
+
+
+
 
 
 It seems none of the lessons treat discuss how to set up user name and email.
