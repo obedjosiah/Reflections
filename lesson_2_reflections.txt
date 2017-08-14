@@ -7,8 +7,14 @@ My Thoughts: The staging ares is different from the other concepts in that it is
 How can you use the staging area to make sure you have one commit per logical change?
 My Thoughts: Staging area allows you to compile all the files required to make a particular commit. So you are sure that all filesare related to the same kind of change.  (that is, one logical change per commit).
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+My Thoughts: Branches are helpful when you want to add features or experiment on your work, but you stil want to maintain the original. In this case, branhes help you create labels in which you can put these other versions of your work. 
 
+How do the diagrams help you visualize the branch structure?
+My Thoughts: The diagrams help to visualize the branch structure via the arrows that show each parent of each commit within each branch. It also shows the path of each branch.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+My Thoughts: When you merge two branches together, all the commits contained in both branches, that is, all the changes made, will now be reflected in the same branch. This is represented in the diagram this way so that e can trace the parents of the various commits.
 
 
 
