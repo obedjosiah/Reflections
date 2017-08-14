@@ -1,1 +1,2 @@
-
+When would you want to use a remote repository rather than keeping all your work local?
+My Thoughts: A remote repository comes in handy when you need to share your work with others. It makes collaboration easy.
